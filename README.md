@@ -12,7 +12,7 @@ I'm a full-stack developer with over 4 years of hands-on experience. I specializ
 
 ## 🏆 Achievements
 
-- 🥇 **1st Place Winner** in **two hackathon competitions** – most recently for an **AI Recruiter System** that uses NLP to match candidates to job descriptions.
+- 🥇 **1st Place Winner** in **two hackathon competitions** – most recently for an  **Digital Pet Twin** and **AI Recruiter System** that uses NLP to match candidates to job descriptions.
 - 💻 Developed a **responsive and intelligent recruitment platform** using **Next.js**, **Tailwind CSS**, **Express.js**, and a custom **REST API**.
 - 🌐 **Website Developer** at **Bahir Dar University Career Center** – building student-focused web solutions to bridge students with job opportunities.
 - 💼 Active **freelancer** working on full-stack web applications and custom client solutions.
