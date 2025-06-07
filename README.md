@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Hiwot Belay Mekonnen
 
-🎯 A **Full-Stack Developer**, **AI Enthusiast**, and **Software Engineer** passionate about building impactful and intelligent digital solutions.
+🎯 A **Full-Stack Developer**, **AI Enthusiast**, and **Software Engineer** passionate about building impactful and intelligent digital solutions
 
 ---
 
