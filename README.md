@@ -127,19 +127,6 @@
 
 <br>
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="30" /> Featured Projects
-
-<div align="center">
-  <a href="https://github.com/yourusername/project1">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Project 1" />
-  </a>
-  <a href="https://github.com/yourusername/project2">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Project 2" />
-  </a>
-</div>
-
-<br>
-
 ## <img src="https://user-images.githubusercontent.com/74038190/216124356-9c7ee416-81c1-4885-b113-0e87ab7bc3c6.png" width="30" /> Fun Facts
 
 <table>
